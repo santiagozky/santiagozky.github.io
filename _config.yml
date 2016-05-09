@@ -9,7 +9,7 @@
 title: Santiago García Pimentel
 email: santiagozky@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Generic tech nerd, Adobe AEM developer, always starting and abandoing projects.
+  Generic tech nerd, Adobe AEM developer, always starting and abandoning projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://santiagozky.com" # the base hostname & protocol for your site
 twitter_username: sanzky
