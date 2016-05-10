@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let's se how this go"
+title:  "Let's see how this go"
 date:   2016-05-10 08:40:00 +0200
 categories: general
 ---
