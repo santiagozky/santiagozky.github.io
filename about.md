@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Developer
+---------
+I develop entrerprise web solutions based on Adobe AEM (and the Adobe Marketing Cloud in general) at [netcentric.biz](http://netcentric.biz).
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Person
+---------
+I am the husband of an amazing woman and the proud father of two little girls.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Nerd
+--------
+Lover of technology, gadgets and dank memes.
+
+About this site
+--------
+
+This site is built using [jekyll](http://jekyllrb.com/) and hosted at [github](http://github.com). No particular reason. I wanted a free place to host my site and this option seems enough for me.
